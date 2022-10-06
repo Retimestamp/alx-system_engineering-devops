@@ -31,7 +31,7 @@ Scripts and their functions:
 
 '13-symbolic_link': creates a symbolic link to '/bin/ls' named '__ls__'.
 
-'14-copy_html': copies all the '.htmml' files the current working directory to the parent of the current working directory if they do not already exist or if they do, are a newer verson.
+'14-copy_html': copies all the '.htmml' files the current working directory to the parent of the current working directory if they do not already exist or if they do, are an older verson.
 
 '100-lets_move': moves all files that begin with an upper case letter to '/tmp/u'.
 
